@@ -1,7 +1,7 @@
 
 body{
     font-family: Arial, sans-serif;
-    background-color: #929090;
+    background-color:#d7c1c1;
     font-size: 15px;
     line-height: 1.5;
     padding: 0;
@@ -18,6 +18,9 @@ body{
     margin: 100px auto;
     background-color: #d7c1c1;
     border-radius: 25px;
+    background: #c8b7b7;
+    box-shadow:  20px 20px 60px #aa9c9c,
+             -20px -20px 60px #e6d2d2;
 }
 
 .base{
